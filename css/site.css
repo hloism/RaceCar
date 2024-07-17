@@ -116,4 +116,5 @@ footer i:hover{
 #alertMessage{
     transition: 1s ease-in-out;
     opacity: 0;
+     
 }
